@@ -10,7 +10,8 @@ Praktikum Jarkom Modul 4 IT14 2024
 ## Toplogi
 
 ![tpl](https://github.com/rzkirmdhani/Jarkom-Modul-4-IT14-2024/assets/141987387/2fbb3a75-77eb-44f3-88e7-149ec18a5e50)
-
+### IP Prefix IT14
+192.240
 ## Soal
 1. Soal shift dikerjakan pada Cisco Packet Tracer dan GNS3 menggunakan metode perhitungan CLASSLESS yang berbeda.
 Keterangan: Bila di CPT menggunakan VLSM, maka di GNS3 menggunakan CIDR atau sebaliknya.
