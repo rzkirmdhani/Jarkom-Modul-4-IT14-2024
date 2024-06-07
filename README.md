@@ -21,15 +21,15 @@ Keterangan: Bila di CPT menggunakan VLSM, maka di GNS3 menggunakan CIDR atau seb
 6. Seluruh node yang ada pada topologi harus dapat TERKONEKSI satu sama lain dan dapat melakukan PING ke node lainnya yang ada di topologi.
 7. Gambar topologi yang lebih jelas dapat diakses pada link.
 
+### Pembagian
+* Saya menggunakan VLSM pada Cisco dan
+* Menggunakan GNS3 pada CIDR.
+# VLMS pada CISCO
 ## Toplogi CISCO CPT
 ![tpl](https://github.com/rzkirmdhani/Jarkom-Modul-4-IT14-2024/assets/141987387/2fbb3a75-77eb-44f3-88e7-149ec18a5e50)
-## Topologi GNS
-
-### Pembagian
-* Menggunakan VLSM pada
-* Menggunakan GNS pada
 
 ## Rute
+![Screenshot 2024-06-07 201812](https://github.com/rzkirmdhani/Jarkom-Modul-4-IT14-2024/assets/141987387/4b5f43c5-6a62-499b-a07e-1501c62c7a15)
 
 ## Pelabelan Subnet
 
