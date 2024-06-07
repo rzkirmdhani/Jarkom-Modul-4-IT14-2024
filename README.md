@@ -29,9 +29,17 @@ Keterangan: Bila di CPT menggunakan VLSM, maka di GNS3 menggunakan CIDR atau seb
 ![tpl](https://github.com/rzkirmdhani/Jarkom-Modul-4-IT14-2024/assets/141987387/2fbb3a75-77eb-44f3-88e7-149ec18a5e50)
 
 ## Rute
-![Screenshot 2024-06-07 201812](https://github.com/rzkirmdhani/Jarkom-Modul-4-IT14-2024/assets/141987387/4b5f43c5-6a62-499b-a07e-1501c62c7a15)
+![Screenshot 2024-06-07 221734](https://github.com/rzkirmdhani/Jarkom-Modul-4-IT14-2024/assets/141987387/24aee955-3c9a-4faf-a733-601dfc21de96)
+
+## Pembagian IP VLSM
+
+![Screenshot 2024-06-07 221916](https://github.com/rzkirmdhani/Jarkom-Modul-4-IT14-2024/assets/141987387/f5c8bb6c-7edf-471a-8efd-2410007ae119)
 
 ## Pelabelan Subnet
+![Screenshot 2024-06-07 202653](https://github.com/rzkirmdhani/Jarkom-Modul-4-IT14-2024/assets/141987387/d603464a-90c1-48a9-8522-6d36459bb528)
 
 ## Tree
-.
+
+![Screenshot 2024-06-07 221622](https://github.com/rzkirmdhani/Jarkom-Modul-4-IT14-2024/assets/141987387/59fb05bd-8df3-4b7f-9457-d37a49c3e0d0)
+
+# CIDR pada GNS3
