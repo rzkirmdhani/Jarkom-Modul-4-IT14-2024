@@ -43,3 +43,6 @@ Keterangan: Bila di CPT menggunakan VLSM, maka di GNS3 menggunakan CIDR atau seb
 ![Screenshot 2024-06-07 221622](https://github.com/rzkirmdhani/Jarkom-Modul-4-IT14-2024/assets/141987387/59fb05bd-8df3-4b7f-9457-d37a49c3e0d0)
 
 # CIDR pada GNS3
+
+### Kendala
+GNS3 masih di usahakan😎
