@@ -45,4 +45,4 @@ Keterangan: Bila di CPT menggunakan VLSM, maka di GNS3 menggunakan CIDR atau seb
 # CIDR pada GNS3
 
 ### Kendala
-GNS3 masih di usahakan😎
+Belum mengerjakan GNS3 pada CIDR.
